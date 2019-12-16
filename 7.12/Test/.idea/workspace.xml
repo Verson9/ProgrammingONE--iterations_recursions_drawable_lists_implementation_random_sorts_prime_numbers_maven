@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="453942d0-8a19-4c3f-a44b-e0b9a87d1a46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UeLPzTG9vrvk1304h3dyaI0Y2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="java.util.Optional" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="zadania_z_klasami" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="java.util.Optional" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\Kurs Java\Programowanie_1\7.12\Test\src\main\java\listy\not_so_easy_but_still_izi\first" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Game (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prosta_gierka.Game" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prosta_gierka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapy.easy.Game" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapy.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prosta_gierka.Main" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prosta_gierka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_z_klasami.Main" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_z_klasami.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listy.not_so_easy_but_still_izi.first.Queueue" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listy.not_so_easy_but_still_izi.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Game (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Queueue (1)" />
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ACER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="453942d0-8a19-4c3f-a44b-e0b9a87d1a46" name="Default Changelist" comment="" />
+      <created>1575712093313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575712093313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1576188915324">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="726" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1842.1080@0.0.1842.1080" timestamp="1576188915324" />
+    <state x="701" y="258" key="FileChooserDialogImpl" timestamp="1576311442300">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="701" y="258" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1576311442300" />
+    <state width="1799" height="287" key="GridCell.Tab.0.bottom" timestamp="1576086164721">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="287" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1576086164721" />
+    <state width="1799" height="287" key="GridCell.Tab.0.center" timestamp="1576086164720">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="287" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1576086164720" />
+    <state width="1799" height="287" key="GridCell.Tab.0.left" timestamp="1576086164720">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="287" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1576086164720" />
+    <state width="1799" height="287" key="GridCell.Tab.0.right" timestamp="1576086164720">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="287" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1576086164720" />
+    <state x="586" y="240" key="NewModule_or_Project.wizard" timestamp="1576311410244">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="586" y="240" key="NewModule_or_Project.wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1576311410244" />
+    <state x="401" y="114" key="SettingsEditor" timestamp="1575924350645">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="401" y="114" key="SettingsEditor/0.0.1842.1080@0.0.1842.1080" timestamp="1575924350645" />
+    <state x="617" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1576311363846">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="617" y="365" key="com.intellij.ide.util.TipDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1576311363846" />
+    <state x="692" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576078881057">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="692" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1576078881057" />
+    <state x="584" y="235" key="search.everywhere.popup" timestamp="1576094857851">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="584" y="235" key="search.everywhere.popup/0.0.1842.1080@0.0.1842.1080" timestamp="1576094857851" />
+  </component>
+</project>

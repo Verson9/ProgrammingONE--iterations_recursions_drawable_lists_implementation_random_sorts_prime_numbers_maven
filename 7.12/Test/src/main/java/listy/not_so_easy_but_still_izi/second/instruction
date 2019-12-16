@@ -1,0 +1,8 @@
+Napisz rekurencyjną metodę zamiany liczby
+dziesiętnej na dwójkową. Metoda ma zwrócić
+stos intów składający się z ciągu zer i jedynek w
+odpowiedniej kolejności (od MSB do LSB).
+Dla toBinary(10) stos: 1010.
+Utwórz stos jako pole klasy.
+
+    SUGERUJ SIĘ OBRAZKAMI KURWAAAA!!!!

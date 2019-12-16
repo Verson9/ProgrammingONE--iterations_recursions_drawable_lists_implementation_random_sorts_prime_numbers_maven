@@ -1,0 +1,10 @@
+Class Fibonacci{
+		int funFib(int n){
+			if(n==0 || n==1)
+				return n;
+			return funFib(n-1)+funFib(n-2)
+		}
+	public static void main(String[]args){
+
+	}
+}

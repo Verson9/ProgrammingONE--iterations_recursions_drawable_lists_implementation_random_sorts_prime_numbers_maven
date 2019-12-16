@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90e4cee6-8c4f-4ddd-a315-2b12ed2aac63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UeLL9tEfFpd3FtZIK8gOIiixt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e4cee6-8c4f-4ddd-a315-2b12ed2aac63" name="Default Changelist" comment="" />
+      <created>1575712056446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575712056446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575924123578">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="623" y="228" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1575924123578" />
+    <state x="701" y="257" key="FileChooserDialogImpl" timestamp="1575924230318">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="701" y="257" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1575924230318" />
+    <state x="586" y="238" key="NewModule_or_Project.wizard" timestamp="1575924233207">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="586" y="238" key="NewModule_or_Project.wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1575924233207" />
+    <state x="617" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1575924018466">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="617" y="363" key="com.intellij.ide.util.TipDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1575924018466" />
+    <state x="303" y="160" key="new project wizard" timestamp="1575923962857">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="303" y="160" key="new project wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1575923962857" />
+  </component>
+</project>

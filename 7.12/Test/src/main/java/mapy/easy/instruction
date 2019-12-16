@@ -1,0 +1,9 @@
+Napiszcie program w parach – zgadywanie liczb.
+Program składa się z dwóch części:
+1) jedna osoba wprowadza 10 wybranych liczb z zakresu np. 1-30
+(druga osoba nie paczy), liczby zapamiętujecie w secie.
+2) druga osoba zgaduje liczby wprowadzając je do konsoli.
+Po każdej wprowadzonej liczbie
+wyświetla się komunikat czy została zgadnięta czy nie,
+a na koniec wyświetlana jest ilość
+odgadniętych liczb.

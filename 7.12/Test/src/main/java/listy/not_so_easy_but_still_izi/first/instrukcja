@@ -1,0 +1,9 @@
+Uwtórz kolejkę priorytetową stringów i dodaj do niej minimum trzy
+wyrazy o różnej
+długości.
+
+Wypisz wyrazy w kolejności alfabetycznej.
+
+Następnie napisz własny komparator (i przekaż go w konstruktorze
+listy) tak, aby wypisać
+wyrazy w kolejności od najdłuższego najkrótszego.

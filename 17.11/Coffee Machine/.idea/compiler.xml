@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Add_11_hours_and_print_the_date_main" target="11" />
+      <module name="Problems-Add_11_hours_and_print_the_date_test" target="11" />
+      <module name="Problems-Add_days_and_subtract_hours_main" target="11" />
+      <module name="Problems-Add_days_and_subtract_hours_test" target="11" />
+      <module name="Problems-Adding_N_minutes_main" target="11" />
+      <module name="Problems-Adding_N_minutes_test" target="11" />
+      <module name="Problems-Currencies_main" target="11" />
+      <module name="Problems-Currencies_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Overloading_methods_main" target="11" />
+      <module name="Problems-Overloading_methods_test" target="11" />
+      <module name="Problems-Project_constants_and_methods_main" target="11" />
+      <module name="Problems-Project_constants_and_methods_test" target="11" />
+      <module name="Problems-Robot_control_main" target="11" />
+      <module name="Problems-Robot_control_test" target="11" />
+      <module name="Problems-Subtracting_hours_and_adding_minutes_main" target="11" />
+      <module name="Problems-Subtracting_hours_and_adding_minutes_test" target="11" />
+      <module name="Problems-The_passed_hours_since_the_beginning_of_year_main" target="11" />
+      <module name="Problems-The_passed_hours_since_the_beginning_of_year_test" target="11" />
+      <module name="Problems-Too_many_cats_main" target="11" />
+      <module name="Problems-Too_many_cats_test" target="11" />
+      <module name="Problems-Whole_hours_between_two_date-time_pairs_main" target="11" />
+      <module name="Problems-Whole_hours_between_two_date-time_pairs_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
